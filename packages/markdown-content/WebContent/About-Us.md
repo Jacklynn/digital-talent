@@ -4,7 +4,7 @@ On April 6th, 2023, the Digital Office released B.C. Government’s Digital Plan
 
 [B.C. Government’s Digital Plan](https://www2.gov.bc.ca/assets/gov/data/digital-government/digital-plan.pdf)  
 
-Legacy policies prevented seamless hiring and this impacted the public. Modernizing takes innovation, of both culture and process. Our team, the Digital Talent Attraction and Development Team (DADT), was one of the responses to these barriers. 
+Legacy policies prevented seamless hiring and this impacted the public. Modernizing takes innovation, of both culture and process. Our team, the Digital Talent Attraction and Development Team (DTAD), was one of the responses to these barriers. 
 
 We work, live, and play on the lands of lək̓ʷəŋən People, now known as the Esquimalt and Songhees Nations, scəw̓aθən (Tsawwassen), xʷməθkʷəy̓əm (Musqueam) and Coast Salish Peoples, Lheidli T'enneh, and Tk’emlúps te Secwépemc territory. 
 
