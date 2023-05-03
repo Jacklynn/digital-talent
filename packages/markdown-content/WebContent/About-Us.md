@@ -18,7 +18,7 @@ Across Provincial Government from November 2021 – December 2022, we:
 - 	94 Internal to B.C. Government
 - 	Interviewed 175 Candidates 
 
-We are passionate about delivering a better service, so the BC Public Service employs curious and brilliant workers. 
+We are passionate about delivering a better service, so the BC Public Service continues and scales employing brilliant workers. 
 
 This page hosts more information about hiring options. If any of them apply to the hiring needs in your area, let's connect. We want this Province to thrive! 
 
