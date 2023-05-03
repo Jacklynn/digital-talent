@@ -1,6 +1,8 @@
 <h1> Overview</h1>
 
-The Cross-Ministry Hiring Project (CMHP) uses one job posting to fill positions across the BC Public Service. Hiring Managers have full support because our team, the Digital Talent Attraction and Development Team (DTAD), manages the hiring process. After the competition ends, we create an Eligibility List. This list becomes the source for filling other positions.
+In the BC Public Service, Hiring Managers often run competitions for one job posting and can create Eligibility Lists. Resources are rarely shared because of silo culture, and the Public Service Agency must respond to 
+
+Our Cross-Ministry Hiring Project (CMHP) uses one job posting to fill positions across the BC Public Service. Hiring Managers have full support because our team, the Digital Talent Attraction and Development Team (DTAD), manages the hiring process. After the competition ends, we create an Eligibility List. This list becomes the source for filling other positions.
 
 Consider the benefits of CMHP in the infographic below: 
 
