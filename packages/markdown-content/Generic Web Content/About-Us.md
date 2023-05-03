@@ -12,11 +12,11 @@ The diversity of these lands shapes our team members and impacts the foundation 
 
 Across Provincial Government from November 2021 – December 2022, we: 
 
-- 	Completed 16 competitions 
-- 	Had 584 Applicants 
-- 	490 External to B.C. Government
-- 	94 Internal to B.C. Government
-- 	Interviewed 175 Candidates 
+<li>Completed 16 competitions 
+<li>Interviewed 175 Candidates 
+<li>Had 584 Applicants 
+  <ul><li>490 External to B.C. Government</li>
+    <li>94 Internal to B.C. Government</ul>
 
 We are passionate about delivering a better service, so the BC Public Service continues and scales employing brilliant workers. 
 
