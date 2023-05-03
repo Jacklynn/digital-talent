@@ -1,8 +1,10 @@
 <h1> Overview</h1>
 
-In the BC Public Service, Hiring Managers often run competitions for one job posting and can create Eligibility Lists. Resources are rarely shared because of silo culture, and the Public Service Agency must respond to 
+In the BC Public Service, Hiring Managers run competitions for one job posting. Resources are rarely shared because of silo culture. This leads to many requests to the Public Service Agency for support. Since many requests need responses, the hiring process becomes hard to manage. Then, hiring takes longer and candidates find other jobs.
 
 Our Cross-Ministry Hiring Project (CMHP) uses one job posting to fill positions across the BC Public Service. Hiring Managers have full support because our team, the Digital Talent Attraction and Development Team (DTAD), manages the hiring process. After the competition ends, we create an Eligibility List. This list becomes the source for filling other positions.
+
+Instead of many singular competitions, we gather all instances into one big competition.
 
 Consider the benefits of CMHP in the infographic below: 
 
