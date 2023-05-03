@@ -1,3 +1,5 @@
+<h1>About The Digital Talent Attraction and Development Team</h1>
+
 On April 6th, 2023, the Digital Office released B.C. Government’s Digital Plan. One of many items reported on are hiring barriers:
 
 “Early on, the [Exchange Lab](https://digital.gov.bc.ca/communities/bcdevexchange) recognized that ministries faced several barriers to building digital capacity. It often took months or years to bring in external vendors to support digital initiatives. Further, there was no clear path for existing employees to develop their own digital skills, and ministries struggled to attract and hire talented technologists from outside government.”
@@ -18,6 +20,6 @@ Across Provincial Government from November 2021 – December 2022, we:
 - 	94 Internal to B.C. Government
 - 	Interviewed 175 Candidates 
 
-This page hosts more information about hiring options. If any of them apply to the hiring needs in your area, let's connect. 
+We are passionate about delivering a better service, so the BC Public Service employs curious and brilliant workers. 
 
-We want this Province to thrive! 
+This page hosts more information about hiring options. If any of them apply to the hiring needs in your area, let's connect. We want this Province to thrive! 
