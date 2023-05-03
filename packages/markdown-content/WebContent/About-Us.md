@@ -2,7 +2,7 @@
 
 On April 6th, 2023, the Digital Office released B.C. Government’s Digital Plan. One of many items reported on are hiring barriers:
 
-“Early on, the [Exchange Lab](https://digital.gov.bc.ca/communities/bcdevexchange) recognized that ministries faced several barriers to building digital capacity. It often took months or years to bring in external vendors to support digital initiatives. Further, there was no clear path for existing employees to develop their own digital skills, and ministries struggled to attract and hire talented technologists from outside government.”
+<blockquote>Early on, the [Exchange Lab](https://digital.gov.bc.ca/communities/bcdevexchange) recognized that ministries faced several barriers to building digital capacity. It often took months or years to bring in external vendors to support digital initiatives. Further, there was no clear path for existing employees to develop their own digital skills, and ministries struggled to attract and hire talented technologists from outside government.</blockquote>
 
 [B.C. Government’s Digital Plan](https://www2.gov.bc.ca/assets/gov/data/digital-government/digital-plan.pdf)  
 
