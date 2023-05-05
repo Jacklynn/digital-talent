@@ -20,7 +20,7 @@ Our hiring process is found below:
 <li>This happens three to five days after the interview.</li> 
 <li>Talk to two or three prior work performance references.</li>
 
-<h2>Step 5: Offers</b>
+<h2>Step 5: Offers</h2>
 <li>This happens five to ten days after the reference check.</li>
 <li>The successful candidate gets confirmation of employment after a Security Clearance.</li>
 
