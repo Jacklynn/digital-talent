@@ -13,8 +13,6 @@ Our hiring process is found below:
 <h2>Step 3: Interviews</h2>
 <li>This happens three to five days after the assessment.</li>
 <li>Have behavioral competency interviews to understand your knowledge and expertise.</li>
-<li><b>Behavioral competency</b> means interactions we want from the successful candidate.</li>
-<li>The ones we will interview for are in the Job Description.</li>
 
 <h2>Step 4: Reference Check</h2>
 <li>This happens three to five days after the interview.</li> 
