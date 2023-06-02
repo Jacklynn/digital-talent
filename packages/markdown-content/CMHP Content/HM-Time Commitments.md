@@ -1,22 +1,23 @@
-<h2>Time commitements for hiring managers</h2>
+## Time commitements for hiring managers
 
 We have two options for hiring managers: 
 
-<h3>No involvement</h3>
+### No involvement
 
-This option benefits hiring managers who need talent from CMHP, but do not have availability to engage in the hiring process. Our team provides updates as we progress through each step. For this option, we expect hiring managers to: 
-<li>Attend a consultation to review the job posting, job profile and questionnaires
-<li>Review successful interview candidates' redacted resumes
+This option benefits hiring managers who need talent from CMHP, but cannot take part in the hiring process. Our team provides updates as we progress through each step. For this option, we expect hiring managers to: 
+- Attend a consensus meeting to review and approve the draft job posting, job profile and questionnaires.
+- Rank preferred candidates based on scored competition notes.
   
-<h3>Full Involvement</h3>
+### Full Involvement
 
-This option offers hiring managers, or designates, opportunities to offer feedback in every step of the hiring process, In total, this takes <b>10 hours</b>: 
-<li>Attend a consensus meeting to review and approve the job posting, job profile and screening questionnaire
-<li>Attend consensus meeting for candidate screen-in comparison
-<li>Review, offer feedback and approve draft assessments in a timely manner
-<li>Review and screen candidates within three days of receiving QST report
-<li>Mark assessments and allocate time when required for co-grading assessments
-<li>Commit three or more consecutive days for panel interviews
-<li>Attend cross-ministry meeting for comprehensive consensus panel marking of candidates
-<li>Attend short candidate ranking debrief
-<li>Participate in conducting reference checks for successful candidates if and when required
+This option gives hiring managers, or designates, opportunities to take in every step of the hiring process. Because demand to take part can be high, we engage in a selection processes for a hiring panel. In total, hiring managers participating in full involvement will commit <b>10 hours</b>: 
+- Attend a consensus meeting to review and approve the job posting, job profile and screening questionnaire.
+- Review and screen candidates within three days of receiving the QST report.
+- Attend consensus meeting for final decision on screened candidates.
+- Review and approve drafts of technical assessments.
+- Score technical assessments.
+- Three consecutive days for panel interviews.
+- Conduct reference checks for successful candidates.
+- Attend meeting for collective candidate scoring with panel members.
+- Attend meeting for candidate ranking debrief.
+
