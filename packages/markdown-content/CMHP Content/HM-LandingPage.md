@@ -1,6 +1,6 @@
-<h1>Cross Ministry Hiring Project in the BC Public Service</h1>
+<h1>Cross-Ministry Hiring in the BC Public Service</h1>
 
-<h2>Cross Ministry Hiring Project overview</h2>
+<h2>Cross-Ministry Hiring overview</h2>
 As a hiring manager, find guidance here to set your team up for successful outcomes.
 <br>[Button 1: Get Started]
 
